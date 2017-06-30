@@ -20,6 +20,6 @@ Build the executable and run it with the tetriminos' file as a parameter
 
 Example:
 
-	./fillit samples/sample
+	./fillit samples/sample.txt
 
 [fillit.en.pdf]: https://github.com/erredavila/fillit/blob/master/fillit.en.pdf
