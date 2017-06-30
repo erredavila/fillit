@@ -9,7 +9,7 @@ A Tetriminos is a 4-blocks geometric figure that most of you might knows thanks 
 
 The program takes a file as a parameter which contains a list of Tetriminos which must be arranged to create the smallest square possible. Obviously, your main goal is to find this smallest square in the minimal amount of time, despite a exponentially growing number of possibilities each time a piece is added.
 
-For the complete instructions, check out [fillit.en.pdf]
+For the complete instructions, check out the [PDF]
 
 ### Usage
 
@@ -22,4 +22,4 @@ Example:
 
 	./fillit samples/sample.txt
 
-[fillit.en.pdf]: https://github.com/erredavila/fillit/blob/master/fillit.en.pdf
+[PDF]: https://github.com/erredavila/fillit/blob/master/fillit.en.pdf
